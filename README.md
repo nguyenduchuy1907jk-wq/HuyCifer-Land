@@ -1,2 +1,2 @@
 # HuyCifer-Land 
-print"Hello Huy"
+print("Hello Huy")
